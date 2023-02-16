@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-  **Hallo, iedereen.
+Hallo, iedereen.
 
 - 🔭 I’m currently working on many things
 - 🌱 I’m currently learning programming
@@ -11,4 +10,3 @@
 - 📫 How to reach me: on the link to my linkedin page
 - 😄 Pronouns: /
 - ⚡ Fun fact: sus
--->
