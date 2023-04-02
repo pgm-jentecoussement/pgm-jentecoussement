@@ -10,3 +10,6 @@ Hallo, iedereen.
 - 📫 How to reach me: on the link to my linkedin page
 - 😄 Pronouns: /
 - ⚡ Fun fact: sus
+
+De talen waar ik vooral met werk zijn JavaScript, CSS en HTML. Hier gaan natuurlijke nog verschillende talen bij komen.
+Zeker gaan hier nog verschillende tools en technologiëen bijkomen.
